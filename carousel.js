@@ -24,5 +24,5 @@ nextSlide.addEventListener("click", function () {
 // Select previous slide button
 const prevSlide = document.querySelector(".btn-prev");
 
-// STEP 5: Add event listener and navigation functionality.
+// STEP 6: Add event listener and navigation functionality.
 // HINT: Use the code you wrote to add the functionality to the next slide button. 
